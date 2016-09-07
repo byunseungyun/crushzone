@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://crushzone.xyz
+
+User-agent:Yeti
+Disallow: 
